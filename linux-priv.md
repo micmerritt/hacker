@@ -179,11 +179,10 @@
 `cat /etc/ssh/ssh_config` or `cat /etc/sshd/sshd_config`
 
 ## Break out of Shell
->python -c 'import pty;pty.spawn("/bin/bash")'
+- python -c 'import pty;pty.spawn("/bin/bash")'
+- echo os.system('/bin/bash')
+- /bin/sh -i
 
->echo os.system('/bin/bash')
-
->/bin/sh -i
 ## Writeable
 ### Anyone
 `ls -aRl /etc/ | awk '$1 ~ /^.*w.*/' 2>/dev/null`
