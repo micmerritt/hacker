@@ -4,14 +4,10 @@
 `nmap -A -oA nmap [IP]`
 ## Scan all ports, takes forever
 `nmap -v -p- -sT [IP]`
-#
-# HTTP/HTTPS
 ## Nikto probe
 `nikto -host [IP] -port [port]`
 ## Directories and Files
 `./dirsearch.py -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -u [IP] -e php`
-#
-# SMB
 ## Check nmap scripts
 `locate *.nse | grep smb`
 ## Syntax
@@ -22,8 +18,6 @@
 `enum4linux -a [IP]`
 ## smbclient
 `smbclient \\\\[IP]\\[share]`
-#
-# Other
 ## FTP
 `ftp [IP]`
 
