@@ -1,5 +1,3 @@
-# LINUX PRIV
-# OS
 ## Distro
 `cat /etc/issue`
 
@@ -32,8 +30,7 @@
 `env`
 ## Printer check
 `lpstat -a`
-#
-# Services
+## Services
 `ps aux`
 
 `ps -ef`
@@ -85,8 +82,7 @@
 `grep -i pass [filename]`
 
 `find . -name "*.php" -print0 | xargs -0 grep -i -n "var $passsword"`
-#
-# Network Connection
+## Network Connection
 `/sbin/ifconfig -a`
 
 `cat /etc/network/interfaces`
@@ -105,7 +101,7 @@
 
 `dnsdomainname`
 ## Communications
-`lsof -i` [:port]`
+`lsof -i [:port]`
 
 `grep [port] /etc/services`
 
@@ -117,7 +113,6 @@
 
 `last`
 
-`w`
 ## Cached Connections
 `arp -e`
 
@@ -142,8 +137,7 @@
 `ssh -D 127.0.0.1:[port] -N [username]@[IP]`
 
 `proxychains ifconfig`
-#
-# Info and Users
+
 ## Who are You
 `id`
 
@@ -182,8 +176,7 @@
 `cat ~/.ssh/id_rsa`
 
 `cat /etc/ssh/ssh_config` or `cat /etc/sshd/sshd_config`
-#
-# File Systems
+
 ## Break out of Shell
 >python -c 'import pty;pty.spawn("/bin/bash")'
 
