@@ -1,3 +1,4 @@
+# Linux Privs
 ## Distro
 `cat /etc/issue`
 
