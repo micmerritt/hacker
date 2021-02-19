@@ -1,12 +1,12 @@
 # Linux Privs
 ## Distro
-`cat /etc/issue`
+  cat /etc/issue
 
-`cat /etc/*-release`
+  cat /etc/*-release
 
-`cat /etc/lsb-release #Debian-based`
+  cat /etc/lsb-release #Debian-based
 
-`cat /etc/redhat-release #Redhat-based`
+  cat /etc/redhat-release #Redhat-based
 ## Kernel
 `cat /proc/version`
 
