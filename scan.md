@@ -1,3 +1,4 @@
+# Scan
 ## Check the network
 `nmap -sn 10.0.0.0/24`
 ## Scan ports/run OS detection
