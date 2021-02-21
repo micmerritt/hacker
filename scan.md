@@ -5,10 +5,14 @@
 `nmap -A -oA nmap [IP]`
 ## Scan all ports, takes forever
 `nmap -v -p- -sT [IP]`
+## Scan all ports and run OS detection
+`nmap -A -v [IP] -p-`
 ## Nikto probe
 `nikto -host [IP] -port [port]`
 ## Directories and Files
 `./dirsearch.py -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -u [IP] -e php`
+## GoBuster directors and files on server
+`gobuster dir -u http://IP/ -w /usr/share/wordlists/dirb/common.txt`
 ## Check nmap scripts
 `locate *.nse | grep smb`
 ## Syntax
