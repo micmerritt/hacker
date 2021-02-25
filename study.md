@@ -1,7 +1,7 @@
-# Study Materials
-## Videos
+# Videos
 - [Hackersploit Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
-## Courses [TryHackMe](https://tryhackme.com/)
+
+# Courses [TryHackMe](https://tryhackme.com/)
 - Path: Complete Beginner
     + Linux Fundamentals 1, 2, 3
     + Networking, Nmap, and Network Services
@@ -26,7 +26,7 @@
     + ZTH Web 2
     + Upload Vulnerabilities
 
-## Read
+# Read
 - Penetration Testing: A Hands-on Introduction to Hacking (Weidman)
 - The Hacker Playbook 1, 2, and 3 (Kim)
 - Network Security Assessment (McNab)
@@ -39,7 +39,7 @@
 - Penetration Testing: A Survival Guide (Packt)
 - The Web Application Hacker's Handbook (Stuttard)
 
-## More Courses
+# More Courses
 - [Windows Privilege Escalation](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/)
 - [Linux Privilege Escalation](https://www.udemy.com/course/linux-privilege-escalation-for-beginners/)
 - [Buffer Overflow Series](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
