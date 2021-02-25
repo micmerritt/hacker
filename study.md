@@ -1,6 +1,7 @@
 # Study Materials
-## [Hackersploit Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
-## [TryHackMe](https://tryhackme.com/)
+## Videos
+- [Hackersploit Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
+## Courses [TryHackMe](https://tryhackme.com/)
 - Path: Complete Beginner
     + Linux Fundamentals 1, 2, 3
     + Networking, Nmap, and Network Services
@@ -24,6 +25,7 @@
     + SSRF
     + ZTH Web 2
     + Upload Vulnerabilities
+
 ## Read
 - Penetration Testing: A Hands-on Introduction to Hacking (Weidman)
 - The Hacker Playbook 1, 2, and 3 (Kim)

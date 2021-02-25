@@ -21,11 +21,13 @@
 - Fristileaks 1.3
 - Stapler 1
 - Pwnlab init
+
 ### Intermediate
 - Kioptrix 2014 (#5)
 - Brainpan 1
 - Mr-Robot 1
 - HackLAB Vulnix
+
 ### Others
 - VulnOS 2
 - SickOS 1.2
@@ -54,6 +56,7 @@
 - Bounty
 - Jerry
 - Active
+
 ### Medium
 - Bastard
 - October
@@ -66,6 +69,7 @@
 - TartarSauce
 - Dev0ops
 - Hawk
+
 ### Hard
 - Joker
 - Calamity
@@ -74,6 +78,7 @@
 - Falafel
 - Zipper
 - OneTwoSeven
+
 ### Insane
 - Brainfuck
 - Jail
